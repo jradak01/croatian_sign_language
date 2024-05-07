@@ -1,0 +1,30 @@
+.container
+{
+  margin-top: 5%;
+  margin-bottom: 30px;
+}
+.subcontainer{
+    width: 45%;
+    height: 80%;
+    float: right;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    display: none;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+#druga_{
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+#prikazGumba{
+  margin-top: 5%
+}
+#label-container{
+  font-size: large;
+  overflow-y: scroll;
+  height: 200px;
+}
+#cam-container{
+  margin-top: 10%;
+}
